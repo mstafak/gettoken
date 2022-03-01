@@ -13,7 +13,8 @@ develop-eggs/
 dist/
 downloads/
 eggs/
-.eggs/
+.eggs/mstafa
+
 lib/
 lib64/
 parts/
